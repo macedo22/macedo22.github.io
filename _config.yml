@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "Alex Macedo"
+title_separator          : "|" # "-" 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alex Macedo"
 description              : "An amazing website."
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Macedo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/AlexMacedo.png"
   bio              : "I am an **amazing** person."
   location         : "Orange County, CA"
   email            : "alexandra.l.macedo@gmail.com"
