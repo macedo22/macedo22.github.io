@@ -2,24 +2,25 @@
 layout: single
 permalink: /the-human/
 title: "The Human Behind the Resume"
+author_profile: true
 
 gravitational-waves-gallery:
   - url: /assets/images/ligo-livingston-floor.jpg
     image_path: /assets/images/ligo-livingston-floor.jpg
-    alt: "On the floor of LIGO Livingston!"
-    title: "On the floor of LIGO Livingston!"
+    alt: "On the floor of LIGO Livingston"
+    title: "On the floor of LIGO Livingston"
   - url: /assets/images/ligo-livingston-roof.jpg
     image_path: /assets/images/ligo-livingston-roof.jpg
-    alt: "On the roof of LIGO Livingston!"
-    title: "On the roof of LIGO Livingston!"
+    alt: "On the roof of LIGO Livingston"
+    title: "On the roof of LIGO Livingston"
   - url: /assets/images/kip-thorne-parking-spot-1.jpg
     image_path: /assets/images/kip-thorne-parking-spot-1.jpg
-    alt: "Kip Thorne's CalTech parking spot!"
-    title: "Kip Thorne's CalTech parking spot!"
+    alt: "Kip Thorne's CalTech parking spot"
+    title: "Kip Thorne's CalTech parking spot"
   - url: /assets/images/barry-barish.jpg
     image_path: /assets/images/barry-barish.jpg
-    alt: "Barry Barish at UCSD!"
-    title: "Barry Barish at UCSD!"
+    alt: "Barry Barish at UCSD"
+    title: "Barry Barish at UCSD"
 
 pumpkin-gallery:
   - url: /assets/images/naruto-pumpkin.JPG
@@ -82,11 +83,11 @@ shot-glass-gallery:
   #  title: "Avatar: The Last Airbender fire element symbol"
 ---
 
-The purpose of this page is to give you a look at who I am beyond the bullet points. You can get to know me more through the videos and photos below, which demonstrate my enthusiasm for <u>science</u>, <u>teaching</u>, <u>service</u>, and <u>creating</u> (in that order below)!
+The purpose of this page is to give you a look at who I am beyond the bullet points. You can get to know me more through the videos and photos below, which demonstrate my enthusiasm for <a href="#geeking-out-about-gravitational-waves">science</a>, <a href="#ucsd-cse-100-midterm-music-video">teaching</a>, <a href="#spread-the-word-to-end-the-r-word">service</a>, and <a href="#artwork">creating</a> (in that order below)!
 
 ### <u>Geeking Out About Gravitational Waves</u>
 
-During my time at the [Gravitational Wave Physics and Astronomy Center (GWPAC)](https://physics.fullerton.edu/gwpac/), I have had the privilege to be part of and contribute to (what I consider) some of the most exciting science. Here are some photos of me on my research trip to [LIGO](ttps://www.ligo.caltech.edu/)-Livingston, finding Kip Thorne's CalTech parking spot at a research meeting, and meeting Barry Barish at a UCSD colloquium.
+During my time as a research assistant at the [Gravitational Wave Physics and Astronomy Center (GWPAC)](https://physics.fullerton.edu/gwpac/), I have had the privilege to be part of and contribute to what I consider some of the most exciting science. Here are some photos of me on my research trip to [LIGO](https://www.ligo.caltech.edu/)-Livingston, finding Kip Thorne's CalTech parking spot at a research meeting, and meeting Barry Barish at a UCSD colloquium.
 
 {% include gallery id="gravitational-waves-gallery" caption="LIGO-Livingston is one of two of the  US-based gravitational wave detectors. Kip Thorne and Barry Barish are two of the three 2017 Physics Nobel Prize winners for the discovery of gravitational waves." %}
 
@@ -98,7 +99,7 @@ During my time at the [Gravitational Wave Physics and Astronomy Center (GWPAC)](
 
 ### <u>Spread the Word to End the (R-)Word</u>
 
-During my time spent with <u><strong>Special O at UCLA</strong></u>, one campaign that myself and the other members participated in was [Spread The Word to End the Word](https://www.spreadtheword.global/about). This campaign aims to encourage people to use more inclusive language by pledging to end the use of the word, 'retard(ed).' Working with adult athletes with intellectual disabilities at Special O motivated me to make my pledge in 2015. In an effort to help spread this campaign to more people, I made also this video to accompany my pledge, which features questionable physics.
+During my time spent with <a href="../service-and-outreach/#special-o">Special O</a>, one campaign that myself and the other members participated in was [Spread The Word to End the Word](https://www.spreadtheword.global/about). This campaign aims to encourage people to use more inclusive language by pledging to end the use of the word, 'retard(ed).' Working with adult athletes with intellectual disabilities at Special O motivated me to make my pledge in 2015. In an effort to help spread this campaign to more people, I also made this video to accompany my pledge, which features questionable physics.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/f9FohV74OeU?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
