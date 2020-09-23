@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Identifying correlations between LIGO's astronomical range and auxiliary sensors using lasso regression
+<h2 >Identifying correlations between LIGO's astronomical range and auxiliary sensors using lasso regression</h2>
 
 The published paper can be found [here](https://iopscience.iop.org/article/10.1088/1361-6382/aae593), and is publicly available [here](https://arxiv.org/abs/1807.02592).
 
