@@ -20,7 +20,7 @@ title                    : "Alex Macedo"
 title_separator          : "|" # "-" 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alex Macedo"
-description              : "Personal homepage of Alexandra Macedo."
+description              : "Personal website of Alexandra Macedo."
 url                      : "https://macedo22.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "macedo22/macedo22.github.io"
