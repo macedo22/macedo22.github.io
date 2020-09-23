@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /the-human/
-title: "The Human Behind the Resume"
+#title: "The Human Behind the Resume"
 author_profile: true
 
 gravitational-waves-gallery:
@@ -82,6 +82,8 @@ shot-glass-gallery:
   #  alt: "Avatar: The Last Airbender fire element symbol"
   #  title: "Avatar: The Last Airbender fire element symbol"
 ---
+
+<h1>The Human Behind the Resume</h1>
 
 The purpose of this page is to give you a look at who I am beyond the bullet points. You can get to know me more through the videos and photos below, which demonstrate my enthusiasm for <a href="#geeking-out-about-gravitational-waves">science</a>, <a href="#ucsd-cse-100-midterm-music-video">teaching</a>, <a href="#spread-the-word-to-end-the-r-word">service</a>, and <a href="#artwork">creating</a> (in that order below)!
 
