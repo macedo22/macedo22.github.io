@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Alex Macedo" # "Your Name"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Research Assistant at CSUF"
+  bio              : "Graduate Research Assistant at CSUF\n(she/her)"
   location         : "Orange County, California" # "Somewhere"
   # email            : "alexandra.l.macedo@gmail.com"
   links:
