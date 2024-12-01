@@ -11,9 +11,9 @@ You can find my resume [here](../files/Macedo_Alexandra_Resume.pdf).
 The best way to reach me is via email: **alexandra.l.macedo@gmail.com**
 
 <!-- You can find my teaching evaluations [here](../files/evaluations). -->
-You can find my teaching evaluations below:
+You can find my teaching assistantship evaluations below:
 
-#### Student Evaluations
+#### Evaluations from students
 - Fall 2018 : [Section A](../files/evaluations/students/2018_Fall_Section_A.pdf), [Section C](../files/evaluations/students/2018_Fall_Section_C.pdf)
 - Winter 2019 : [Section A](../files/evaluations/students/2019_Winter_Section_A.pdf), [Section B](../files/evaluations/students/2019_Winter_Section_B.pdf)
 - Spring 2019 : [Section A](../files/evaluations/students/2019_Spring_Section_A.pdf), [Section B](../files/evaluations/students/2019_Spring_Section_B.pdf)
@@ -21,6 +21,6 @@ You can find my teaching evaluations below:
 - Winter 2020 : [Section A](../files/evaluations/students/2020_Winter_Section_A.pdf), [Section B](../files/evaluations/students/2020_Winter_Section_B.pdf)
 - Spring 2020 : [Section C](../files/evaluations/students/2020_Spring_Section_C.pdf) 
 
-#### Instructor Evaluations
+#### Evaluations from instructors
 - [Fall 2018](../files/evaluations/instructors/2018_Fall.pdf)
 - [Fall 2019](../files/evaluations/instructors/2019_Fall.pdf)
