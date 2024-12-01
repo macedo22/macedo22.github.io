@@ -26,6 +26,9 @@ auto lapse = evaluate(
     sqrt(shift(ti::I) * g(ti::i, ti::t) -  g(ti::t, ti::t)));
 ```
 
+Here is a talk I gave on this project at the APS April 2024 Meeting:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5AmWSoib2h8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Improvements to SpECTRE's Binary Black Hole Domain
 Under the mentorship and design of [Dr. Marceline Bonilla](https://moiretomarceline.com/), I implemented [a new feature](https://spectre-code.org/classdomain_1_1CoordinateMaps_1_1Wedge.html#autotoc_md416) of the computational mesh used to simulate binary black hole mergers in [SpECTRE](https://github.com/sxs-collaboration/spectre) that made the mesh more flexible near the horizon and played a key part in getting our binary black hole simulations to robustly merge [[1]](https://arxiv.org/abs/2410.00265).
