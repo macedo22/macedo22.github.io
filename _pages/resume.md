@@ -24,3 +24,4 @@ You can find my teaching assistantship evaluations below:
 #### Evaluations from instructors
 - [Fall 2018](../files/evaluations/instructors/2018_Fall.pdf)
 - [Fall 2019](../files/evaluations/instructors/2019_Fall.pdf)
+- [Fall 2024](../files/evaluations/instructors/2024_Fall.pdf)
