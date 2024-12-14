@@ -7,9 +7,10 @@ author_profile: true
 ---
 
 ## Publications
-### Submitted
+### Accepted
+[1] Geoffrey Lovelace, ..., **Alexandra Macedo**, et al. "Simulating binary black hole mergers using discontinuous Galerkin methods." [[CQG]](https://iopscience.iop.org/article/10.1088/1361-6382/ad9f19), [[arXiv]](https://arxiv.org/abs/2410.00265)
 
-[1] Geoffrey Lovelace, ..., **Alexandra Macedo**, et al. "Simulating binary black hole mergers using discontinuous Galerkin methods." [[arXiv]](https://arxiv.org/abs/2410.00265)
+### Submitted
 
 [2] Nikolas A. Wittek, ..., **Alexandra Macedo**, et al. "Relieving scale disparity in binary black hole simulations." [[arXiv]](https://arxiv.org/abs/2410.22290)
 
