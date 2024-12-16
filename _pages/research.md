@@ -7,14 +7,13 @@ author_profile: true
 ---
 
 ## Publications
-### Accepted
-[1] Geoffrey Lovelace, ..., **Alexandra Macedo**, et al. "Simulating binary black hole mergers using discontinuous Galerkin methods." Classical and Quantum Gravity, 2024. [[CQG]](https://iopscience.iop.org/article/10.1088/1361-6382/ad9f19), [[arXiv]](https://arxiv.org/abs/2410.00265)
-
 ### Submitted
 
-[2] Nikolas A. Wittek, ..., **Alexandra Macedo**, et al. "Relieving scale disparity in binary black hole simulations." [[arXiv]](https://arxiv.org/abs/2410.22290)
+[1] Nikolas A. Wittek, ..., **Alexandra Macedo**, et al. "Relieving scale disparity in binary black hole simulations." [[arXiv]](https://arxiv.org/abs/2410.22290)
 
 ### Peer-reviewed
+
+[2] Geoffrey Lovelace, ..., **Alexandra Macedo**, et al. "Simulating binary black hole mergers using discontinuous Galerkin methods." Classical and Quantum Gravity, 2024. [[CQG]](https://iopscience.iop.org/article/10.1088/1361-6382/ad9f19), [[arXiv]](https://arxiv.org/abs/2410.00265)
 
 [3] Nils Deppe, ..., **Alexandra Macedo**, et al. "Simulating magnetized neutron stars with discontinuous Galerkin methods." Phys. Rev. D, 105(12):123031, 2022. [[PRD]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.123031), [[arXiv]](https://arxiv.org/abs/2109.12033)
 
