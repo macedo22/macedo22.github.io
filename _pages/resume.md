@@ -20,6 +20,7 @@ You can find my teaching assistantship evaluations below:
 - Fall 2019 : [Section A](../files/evaluations/students/2019_Fall_Section_A.pdf), [Section B](../files/evaluations/students/2019_Fall_Section_B.pdf)
 - Winter 2020 : [Section A](../files/evaluations/students/2020_Winter_Section_A.pdf), [Section B](../files/evaluations/students/2020_Winter_Section_B.pdf)
 - Spring 2020 : [Section C](../files/evaluations/students/2020_Spring_Section_C.pdf) 
+- Fall 2024 : [Section 10](../files/evaluations/students/2024_Fall_Section_10.pdf) 
 
 #### Evaluations from instructors
 - [Fall 2018](../files/evaluations/instructors/2018_Fall.pdf)
