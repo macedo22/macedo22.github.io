@@ -17,9 +17,11 @@ author_profile: true
 
 [3] Nils Deppe, ..., **Alexandra Macedo**, et al. "Simulating magnetized neutron stars with discontinuous Galerkin methods." Phys. Rev. D, 105(12):123031, 2022. [[PRD]](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.123031), [[arXiv]](https://arxiv.org/abs/2109.12033)
 
-[4] Marissa Walker, ..., **Alexandra Macedo**, et al. "Identifying correlations between LIGO’s astronomical range and auxiliary sensors using lasso regression." Classical and Quantum Gravity, 2018. [[CQG]](https://iopscience.iop.org/article/10.1088/1361-6382/aae593), [[arXiv]](https://arxiv.org/abs/1807.02592)
+[4] Derek Davis, ..., **Alexandra Macedo**, et al. "LIGO detector characterization in the second and third observing runs." Classical and Quantum Gravity, 2021. [[CQG]](https://iopscience.iop.org/article/10.1088/1361-6382/abfd85), [[arXiv]](https://arxiv.org/abs/2101.11673)
 
-[5] Sander Valstar, ..., **Alexandra Macedo,** et al. "Faculty Views on the Goals of an Undergraduate CS Education and the Academia-Industry Gap." Association for Computing Machinery, 2020. [[ACM]](https://dl.acm.org/doi/abs/10.1145/3328778.3366834)
+[5] Marissa Walker, ..., **Alexandra Macedo**, et al. "Identifying correlations between LIGO’s astronomical range and auxiliary sensors using lasso regression." Classical and Quantum Gravity, 2018. [[CQG]](https://iopscience.iop.org/article/10.1088/1361-6382/aae593), [[arXiv]](https://arxiv.org/abs/1807.02592)
+
+[6] Sander Valstar, ..., **Alexandra Macedo,** et al. "Faculty Views on the Goals of an Undergraduate CS Education and the Academia-Industry Gap." Association for Computing Machinery, 2020. [[ACM]](https://dl.acm.org/doi/abs/10.1145/3328778.3366834)
 
 ## Conference Presentations
 ### Future
