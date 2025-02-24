@@ -25,7 +25,8 @@ author_profile: true
 
 ## Conference Presentations
 ### Future
-- **Alexandra Macedo**, Marceline Bonilla, et al. "Improvements to SpECTRE's Computational Domain for Binary Black Hole Simulations." American Physical Society April Meeting, 2025.
+- **Alexandra Macedo**, Marceline Bonilla, Alexander Carpenter, and Kyle Nelli. "Improvements to SpECTRE's Computational Domain for Binary Black Hole Simulations." 41st Pacific Coast Gravity Meeting, 2025.
+- **Alexandra Macedo**, Marceline Bonilla, Alexander Carpenter, and Kyle Nelli. "Improvements to SpECTRE's Computational Domain for Binary Black Hole Simulations." American Physical Society April Meeting, 2025.
 
 ### Past
 - **Alexandra Macedo** and Nils Deppe. "Writing Tensor Equations in SpECTRE." Simulating Extreme Spacetimes with SpEC and SpECTRE, ICERM, 2024.
