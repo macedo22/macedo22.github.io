@@ -31,7 +31,7 @@ Here is a talk I gave on this project at the APS April 2024 Meeting:
 
 
 ## Improvements to SpECTRE's Binary Black Hole Domain
-Under the mentorship and design of [Dr. Marceline Bonilla](https://moiretomarceline.com/), I implemented [a new feature](https://spectre-code.org/classdomain_1_1CoordinateMaps_1_1Wedge.html#autotoc_md416) of the computational mesh used to simulate binary black hole mergers in [SpECTRE](https://github.com/sxs-collaboration/spectre) that made the mesh more flexible near the horizon and played a key part in getting our binary black hole simulations to robustly merge [[2]](https://arxiv.org/abs/2410.00265).
+Under the mentorship and design of [Dr. Marceline Bonilla](https://moiretomarceline.com/), I implemented [a new feature](https://spectre-code.org/classdomain_1_1CoordinateMaps_1_1Wedge.html#autotoc_md418) of the computational mesh used to simulate binary black hole mergers in [SpECTRE](https://github.com/sxs-collaboration/spectre) that made the mesh more flexible near the horizon and played a key part in getting our binary black hole simulations to robustly merge [[2]](https://arxiv.org/abs/2410.00265).
 
 ## Modeling LIGO's Astronomical Range with Sensor Data
 I developed a tool for the gravitational-wave detector characterization python package [GWDetChar](https://github.com/gwdetchar/gwdetchar) that uses lasso regression to model LIGO's astronomical range with environmental sensor data to help diagnose sources of noise in the detector [[5]](https://iopscience.iop.org/article/10.1088/1361-6382/aae593). I also automated this modeling to run daily for the LIGO scientists and commissioners that maintain and improve the detector.
