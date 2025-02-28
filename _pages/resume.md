@@ -28,13 +28,46 @@ You can find my **references** and teaching assistantship **evaluations** below:
 - [Fall 2024](../files/evaluations/instructors/2024_Fall.pdf)
 
 #### References
-- Professor Nils Deppe &nbsp; (tensor expression templates project mentor)  
-(607)-255-6016 &nbsp;&nbsp;&nbsp;&nbsp; [nd357@cornell.edu](mailto:nd357@cornell.edu)
-- Professor Geoffrey Lovelace &nbsp; (current research advisor)  
-(215)-740-9176 &nbsp;&nbsp;&nbsp;&nbsp; [glovelace@fullerton.edu](mailto:glovelace@fullerton.edu)
-- Professor Joshua Smith &nbsp; (past research advisor)  
-(657)-278-3716 &nbsp;&nbsp;&nbsp;&nbsp; [josmith@fullerton.edu](mailto:josmith@fullerton.edu)
-- Professor Joseph Gibbs Politz &nbsp; (past teaching assistantship)  
-(858)-534-8872 &nbsp;&nbsp;&nbsp;&nbsp; [joe.politz@gmail.com](mailto:joe.politz@gmail.com)
-- Professor Leo Porter &nbsp; (past teaching assistantship)  
-(858)-534-8872 &nbsp;&nbsp;&nbsp;&nbsp; [leporter@ucsd.edu](mailto:leporter@ucsd.edu)
+
+**Nils Deppe**  
+Assistant Professor of Physics  
+Cornell University  
+[nd357@cornell.edu](mailto:nd357@cornell.edu)  
+607-255-6016  
+Relation: C++ Tensor Expressions project mentor, core SpECTRE developer  
+
+**Geoffrey Lovelace**  
+Professor of Physics  
+California State University, Fullerton  
+[glovelace@fullerton.edu](mailto:glovelace@fullerton.edu)  
+657-278-3716  
+Relation: current research advisor  
+
+**Joshua Smith**  
+Professor of Physics, GWPAC Director  
+California State University, Fullerton  
+[josmith@fullerton.edu](mailto:josmith@fullerton.edu)  
+657-278-3716  
+Relation: past research advisor, current research center director, graduate mechanics course professor  
+
+**Gina Passante**  
+Associate Professor of Physics  
+California State University, Fullerton  
+[gpassante@fullerton.edu](mailto:gpassante@fullerton.edu)  
+657-278-3716  
+Relation: graduate quantum mechanics course professor  
+
+**Joe Gibbs Politz**  
+Associate Teaching Professor of Computer Science  
+University of California, San Diego  
+[jpolitz@ucsd.edu](mailto:jpolitz@ucsd.edu)  
+858-534-8872  
+Relation: past teaching assistantship professor  
+
+**Leo Porter**  
+Professor of Computer Science  
+University of California, San Diego  
+[leporter@ucsd.edu](mailto:leporter@ucsd.edu)  
+858-534-8872  
+Relation: past teaching assistantship professor  
+
